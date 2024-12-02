@@ -48,21 +48,21 @@ This project simulates the behavior of 5G signals under various propagation and 
 
 ### **1. Time Domain Analysis**
 - **Original Waveform**: Clean signal without impairments.
-  ![Time Domain Analysis](/5G-Channel-Propagation-and-Noise-Impact-Simulation/Analysis/OriginalWave.png)
+  ![Time Domain Analysis](./Analysis/OriginalWave.png)
 - **After Channel Effects**: Shows multipath propagation-induced attenuation.
 - **After Adding Noise**: Significant degradation due to AWGN.
-![Time Domain Analysis](/5G-Channel-Propagation-and-Noise-Impact-Simulation/Analysis/WaveAfterChannel.png)
+![Time Domain Analysis](./Analysis/WaveAfterChannel.png)
 
 
 ---
 
 ### **2. Frequency Domain Analysis**
 - **Original Spectrum**: Bandwidth is preserved.
-  ![Frequency Domain Analysis](/5G-Channel-Propagation-and-Noise-Impact-Simulation/Analysis/OriginalSpectrum.png)
+  ![Frequency Domain Analysis](./Analysis/OriginalSpectrum.png)
 - **After Channel Effects**: Minor distortions due to multipath.
 - **After Noise Addition**: Significant noise-induced distortions.
 
-![Frequency Domain Analysis](/5G-Channel-Propagation-and-Noise-Impact-Simulation/Analysis/WaveAfterChannel.png)
+![Frequency Domain Analysis](./Analysis/WaveAfterChannel.png)
 
 ---
 
@@ -70,7 +70,7 @@ This project simulates the behavior of 5G signals under various propagation and 
 - Target SNR: **20 dB**.
 - Measured SNR: **20.0041 dB**.
 
-![SNR Analysis](/5G-Channel-Propagation-and-Noise-Impact-Simulation/Analysis/SNRanalysis.png)
+![SNR Analysis](./Analysis/SNRanalysis.png)
 
 ---
 
