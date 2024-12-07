@@ -94,8 +94,9 @@ This project simulates the behavior of 5G signals under various propagation and 
 
 ---
 
-## **Demonstration**
-https://drive.google.com/file/d/1wA9psaybtLXcQZvOO2kd596hA8zPC86M/view?usp=sharing
+## **Demonstration and Report**
+- [Demonstration Video](https://drive.google.com/file/d/1wA9psaybtLXcQZvOO2kd596hA8zPC86M/view?usp=sharing)  
+- [Detailed Report on Overleaf](https://www.overleaf.com/project/674dc8b6cf9dd074118ae729)
 
 ---
 
